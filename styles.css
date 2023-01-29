@@ -1,0 +1,14 @@
+h1,p {
+    background: linear-gradient(to right, #0074c2, #00a800);
+    width: 48%;
+    
+}
+a { 
+    text-decoration: none;
+    
+
+}
+.lasagna {
+    color: white;
+background: linear-gradient(to right, #009246, #CE2B37);
+}
